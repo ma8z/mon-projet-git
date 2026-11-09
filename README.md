@@ -7,3 +7,7 @@ ajout d'une ligne question 10
 
 - Git
 - GitHub
+
+## Auteur
+
+Projet réalisé par l'équipe Data Maroc.
